@@ -1,11 +1,7 @@
-#Teleport.cs
-Скрипт телепорта
+Teleport.cs - Скрипт телепорта
 
-#SpeedTrigger.cs
-Срипт ускорителя
+SpeedTrigger.cs - Срипт ускорителя
 
-#TrapTrigger.cs
-Скрипт перезапуска игры
+TrapTrigger.cs - Скрипт перезапуска игры
 
-#JumpAcceleration.cs
-Скрипт усиления прыжка
+JumpAcceleration.cs - Скрипт усиления прыжка
